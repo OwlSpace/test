@@ -27,7 +27,7 @@ const pi = 3.14;
 // let answer = confirm("polsovatel?");
  //console.log(answer);
 
- //let answer = prompt("Est vosemnadsat?" , "Da");
+ let answer = prompt("Est vosemnadsat?" , "Da");
  //console.log(typeof(arr));
 
 //console.log("arr" + "- object");
